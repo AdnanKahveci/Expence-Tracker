@@ -19,7 +19,8 @@ function App() {
       <TransactionList/>
       <AddTransaction/>
     </GlobalProvider>
-  );
+    
+  ); 
 }
 
 export default App;
